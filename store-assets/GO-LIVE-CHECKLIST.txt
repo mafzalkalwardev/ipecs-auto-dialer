@@ -1,0 +1,159 @@
+================================================================================
+IPECS Auto Dialer by Indus Web Agency — Chrome Web Store GO-LIVE CHECKLIST
+Version 1.0.0
+================================================================================
+
+A) FILES YOU NEED
+--------------------------------------------------------------------------------
+1. Extension package (upload this as the item):
+   D:\IPECS Auto Dialer\ipecs-auto-dialer-webstore.zip
+
+2. Screenshots (1280x800 JPEG, no alpha) — upload at least 1, ideally all 5:
+   store-assets\screenshots-1280x800\
+     01-ipecs-auto-dialer-login-sidepanel-1280x800.jpg
+     02-ipecs-auto-dialer-trial-dashboard-1280x800.jpg
+     03-ipecs-auto-dialer-live-calling-1280x800.jpg
+     04-ipecs-auto-dialer-select-outcome-1280x800.jpg
+     05-ipecs-auto-dialer-xlsx-call-report-1280x800.jpg
+
+3. Optional promo images:
+   store-assets\promo\small-promo-tile-440x280.jpg     (440x280)
+   store-assets\promo\marquee-promo-1400x560.jpg       (1400x560)
+   store-assets\promo\store-icon-128x128.jpg           (128x128 — store also uses zip icons)
+
+4. Privacy policy URL (required):
+   https://ipecs-auto-dialer-accounts.vercel.app/privacy
+
+5. Listing text:
+   STORE-LISTING.txt  (or paste blocks below)
+
+
+B) OPEN THE DEVELOPER DASHBOARD
+--------------------------------------------------------------------------------
+1. Go to: https://chrome.google.com/webstore/devconsole
+2. Sign in with the Google account that owns the Chrome Web Store developer fee
+3. Click "New item" → Upload zip → select ipecs-auto-dialer-webstore.zip
+4. Fill Store listing + Privacy practices + Distribution → Submit for review
+
+
+C) STORE LISTING — PASTE THESE
+--------------------------------------------------------------------------------
+Name:
+IPECS Auto Dialer by Indus Web Agency
+
+Summary (short description, max 132 chars — ours is 117):
+IPECS Auto Dialer by Indus Web Agency - import leads, auto-dial UK numbers on iPECS Cloud, tag outcomes, export XLSX.
+
+Detailed description:
+IPECS Auto Dialer by Indus Web Agency is a queue-based outbound dialer for iPECS Cloud (UK).
+
+Import a CSV or Excel lead list, auto-dial contacts with a configurable delay, tag each call outcome, and export an XLSX call report — all from a Chrome side panel while you work on one3.ipecs-cloud.co.uk.
+
+Made by Indus Web Agency (https://www.induswebagency.com). Built for sales teams and agencies who already use iPECS Cloud and need a simple UK call queue.
+
+How to use:
+1. Add to Chrome and open iPECS Cloud (one3.ipecs-cloud.co.uk/call)
+2. Open the extension side panel
+3. Import leads and start dialing
+4. Tag outcomes on the on-page HUD; download the XLSX report when done
+
+Access is subscription-based (trial, then plans from 1 day to 1 year). Contact Indus Web Agency to activate a paid plan. Each account works on one computer at a time.
+
+Support: WhatsApp +92 307 9670503
+Website: https://www.induswebagency.com
+
+Category: Productivity
+Language: English (United Kingdom) or English
+
+Official URL (optional): https://www.induswebagency.com
+Support URL / email: use WhatsApp link or your Indus email — do NOT put the phone number alone in "Support phone" if Google previously flagged keyword spam; WhatsApp + website is enough.
+
+
+D) PRIVACY PRACTICES (IMPORTANT — MATCH THIS)
+--------------------------------------------------------------------------------
+Privacy policy URL:
+https://ipecs-auto-dialer-accounts.vercel.app/privacy
+
+Single purpose:
+Outbound call-queue automation for the iPECS Cloud web dialer (UK numbers).
+
+Does this extension collect user data?
+YES — account credentials / session for login & subscription (username, optional email, device binding).
+Campaign lead lists stay on the user's machine (Chrome storage); they are not uploaded to Indus unless you later add that.
+
+Remote code: NO
+Sells data: NO
+Uses data for purposes unrelated to the single purpose: NO
+
+Host permissions justification (paste):
+- https://*.ipecs-cloud.co.uk/ — drive the iPECS Cloud dialpad, start/end calls, read call UI
+- https://ipecs-auto-dialer-accounts.vercel.app/ — login, trial, subscription validation
+
+Permission justifications:
+- sidePanel — operator UI for queue, outcomes, account login
+- storage — campaign state and signed-in session on this device
+- alarms — periodic account revalidation
+- tabs — find/focus the open iPECS Cloud calling tab
+- scripting — inject dialer bridge into an already-open iPECS tab after install/reload
+
+
+E) DISTRIBUTION
+--------------------------------------------------------------------------------
+Visibility: Public (or Unlisted if you only want a private link for clients)
+Regions: All regions (or UK-focused if you prefer)
+
+
+F) BEFORE YOU CLICK SUBMIT — LOCAL SMOKE TEST
+--------------------------------------------------------------------------------
+1. chrome://extensions → Remove old IPECS build if any → Load unpacked
+   OR drag the zip / Load unpacked from extracted zip folder
+2. Open https://one3.ipecs-cloud.co.uk/call and sign in
+3. Open side panel → Start free trial (or log in)
+4. Import sample-leads.csv
+5. Start dialing one number → confirm number appears in LEFT dialpad
+6. End call (red hang-up) → select outcome → Download report
+7. If that works, submit the SAME zip to the store
+
+
+G) AFTER APPROVAL
+--------------------------------------------------------------------------------
+1. Install from the live Web Store link (not only unpacked)
+2. Tell clients the store URL
+3. Approve paid users at:
+   https://ipecs-auto-dialer-accounts.vercel.app/admin
+   Username: afzal
+4. Support: WhatsApp +92 307 9670503 · https://www.induswebagency.com
+
+
+H) REAL SCREENSHOTS (RECOMMENDED UPGRADE)
+--------------------------------------------------------------------------------
+The images in store-assets are store-ready mockups. For stronger review / SEO,
+also capture REAL 1280x800 screenshots from your Tony Wills Chrome profile:
+
+1. Set Chrome window ~1280x800 (or crop)
+2. Capture:
+   - Side panel login on /call
+   - After trial, import summary
+   - Active call + HUD
+   - Outcome buttons
+   - Report download
+3. Save as JPEG (no transparent PNG)
+4. Replace files in screenshots-1280x800\
+
+Windows tip: Win+Shift+S → snip → paste into Paint → Resize to 1280x800 → Save as JPG
+
+
+I) COMMON REJECTION FIXES
+--------------------------------------------------------------------------------
+- Description over 132 chars in Summary → use the short line above
+- "Keyword spam" → do NOT add a Keywords: line stuffed with brands
+- Screenshots with alpha/PNG transparency → use the JPEGs we prepared
+- Privacy policy missing / 404 → confirm /privacy returns 200
+- Permission not justified → paste section D exactly
+
+
+J) ADMIN / API (KEEP PRIVATE)
+--------------------------------------------------------------------------------
+Accounts: https://ipecs-auto-dialer-accounts.vercel.app
+Admin:    https://ipecs-auto-dialer-accounts.vercel.app/admin
+Do not put admin URL or password in the public store listing.
