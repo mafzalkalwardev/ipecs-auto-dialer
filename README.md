@@ -1,63 +1,68 @@
 <div align="center">
 
-# IPECS Auto Dialer by Indus Web Agency
+# IPECS Auto Dialer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=Chrome+MV3+UK+Outbound+Dialer;iPECS+Cloud+Auto-Dial+Queue;Lead+Import+%2B+Outcomes+%2B+XLSX+Reports;Built+by+Indus+Web+Agency" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=900&lines=UK+Outbound+Calling+on+iPECS+Cloud;Chrome+MV3+Queue+Dialer+Extension;Built+by+Indus+Web+Agency;Trial+%2B+Subscription+Ready+Workflow" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=0ea5e9&style=for-the-badge" alt="Project views" />
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=2563eb&style=for-the-badge" alt="Project views" />
   <img src="https://img.shields.io/github/stars/mafzalkalwardev/ipecs-auto-dialer?style=for-the-badge&color=22c55e" alt="GitHub stars" />
   <img src="https://img.shields.io/github/forks/mafzalkalwardev/ipecs-auto-dialer?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
   <img src="https://img.shields.io/github/license/mafzalkalwardev/ipecs-auto-dialer?style=for-the-badge&color=64748b" alt="License" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,chrome,vercel,postgres,githubactions,windows" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=js,chrome,html,css,nodejs" alt="Skill icons" />
 </p>
 
 <p>
-  <strong>Chrome extension for UK outbound calling on iPECS Cloud — lead import, auto-dial queue, call outcomes, and XLSX reports.</strong>
+  <strong>Chrome MV3 auto dialer for iPECS Cloud outbound calling — queue dialing, trial/subscription flows, and operator-friendly controls.</strong>
 </p>
 
 </div>
 
 ---
 
-## Project Showcase
-
-IPECS Auto Dialer by Indus Web Agency is a Chrome MV3 side-panel dialer that turns [iPECS Cloud](https://one3.ipecs-cloud.co.uk/call) into a queue-based outbound calling console for UK numbers. Import CSV or Excel leads, auto-dial with a configurable delay, tag each call outcome from an on-page HUD, and export an XLSX call report — while you stay signed in on `one3.ipecs-cloud.co.uk`.
-
-It includes a subscription gate (trial + admin-approved plans) with one device per account, Indus Web Agency branding, and WhatsApp support.
-
-> Compliance note: this extension can place real calls through iPECS Cloud. You are responsible for consent, Do Not Call rules, recording disclosure, spam prevention, local law, and your iPECS / carrier account limits.
-
-### Live screenshots
+## Trophy Cards
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
 
-<img src="store-assets/promo/marquee-promo-1400x560.jpg" alt="IPECS Auto Dialer by Indus Web Agency — marquee" width="100%" />
+---
 
-<br /><br />
+## Stats Cards
 
-| Login | Ready to dial |
-|:---:|:---:|
-| <img src="store-assets/screenshots-1280x800/01-ipecs-auto-dialer-login-sidepanel-1280x800.jpg" alt="Login side panel" width="100%" /> | <img src="store-assets/screenshots-1280x800/02-ipecs-auto-dialer-trial-dashboard-1280x800.jpg" alt="Trial dashboard" width="100%" /> |
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-| Live calling on iPECS | Select outcome |
-|:---:|:---:|
-| <img src="store-assets/screenshots-1280x800/03-ipecs-auto-dialer-live-calling-1280x800.jpg" alt="Live calling" width="100%" /> | <img src="store-assets/screenshots-1280x800/04-ipecs-auto-dialer-select-outcome-1280x800.jpg" alt="Select outcome" width="100%" /> |
+---
 
-<img src="store-assets/screenshots-1280x800/05-ipecs-auto-dialer-xlsx-call-report-1280x800.jpg" alt="XLSX call report" width="100%" />
+## Activity Graph
 
-<p><em>Login → import leads → auto-dial on iPECS Cloud → tag outcomes → export XLSX</em></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
 
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 ## SEO Keywords
 
-`IPECS auto dialer` `iPECS Cloud Chrome extension` `UK outbound dialer` `Chrome MV3 side panel dialer` `UK call queue automation` `Excel lead import dialer` `XLSX call report` `Indus Web Agency` `one3.ipecs-cloud.co.uk` `VoIP auto dialer UK`
+`iPECS dialer` `Chrome extension` `outbound calling` `UK dialer` `MV3`
 
 ---
 
