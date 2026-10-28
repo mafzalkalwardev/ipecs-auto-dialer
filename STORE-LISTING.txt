@@ -1,0 +1,37 @@
+NAME
+IPECS Auto Dialer by Indus Web Agency
+
+SHORT DESCRIPTION
+IPECS Auto Dialer by Indus Web Agency - import leads, auto-dial UK numbers on iPECS Cloud, tag outcomes, export XLSX.
+
+DETAILED DESCRIPTION
+IPECS Auto Dialer by Indus Web Agency is a queue-based outbound dialer for iPECS Cloud (UK).
+
+Import a CSV or Excel lead list, auto-dial contacts with a configurable delay, tag each call outcome, and export an XLSX call report — all from a Chrome side panel while you work on one3.ipecs-cloud.co.uk.
+
+Made by Indus Web Agency (https://www.induswebagency.com). Built for sales teams and agencies who already use iPECS Cloud and need a simple UK call queue.
+
+How to use:
+1. Add to Chrome and open iPECS Cloud (one3.ipecs-cloud.co.uk/call)
+2. Open the extension side panel
+3. Import leads and start dialing
+4. Tag outcomes on the on-page HUD; download the XLSX report when done
+
+Access is subscription-based (trial, then plans from 1 day to 1 year). Contact Indus Web Agency to activate a paid plan. Each account works on one computer at a time.
+
+Support: WhatsApp +92 307 9670503
+Website: https://www.induswebagency.com
+
+PRIVACY POLICY URL
+https://ipecs-auto-dialer-accounts.vercel.app/privacy
+
+SUPPORT
+WhatsApp +92 307 9670503
+https://www.induswebagency.com
+
+SINGLE PURPOSE
+Outbound call-queue automation for the iPECS Cloud web dialer (UK numbers).
+
+ZIP
+D:\IPECS Auto Dialer\ipecs-auto-dialer-webstore.zip
+Version 1.0.0

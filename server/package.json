@@ -1,0 +1,17 @@
+{
+  "name": "ipecs-auto-dialer-accounts-server",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Accounts + admin API for IPECS Auto Dialer by Indus Web Agency. Approve users and set subscription length from /admin; no payment processor.",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
