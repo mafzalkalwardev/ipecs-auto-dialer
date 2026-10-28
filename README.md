@@ -31,6 +31,28 @@ It includes a subscription gate (trial + admin-approved plans) with one device p
 
 > Compliance note: this extension can place real calls through iPECS Cloud. You are responsible for consent, Do Not Call rules, recording disclosure, spam prevention, local law, and your iPECS / carrier account limits.
 
+### Live screenshots
+
+<div align="center">
+
+<img src="store-assets/promo/marquee-promo-1400x560.jpg" alt="IPECS Auto Dialer by Indus Web Agency — marquee" width="100%" />
+
+<br /><br />
+
+| Login | Ready to dial |
+|:---:|:---:|
+| <img src="store-assets/screenshots-1280x800/01-ipecs-auto-dialer-login-sidepanel-1280x800.jpg" alt="Login side panel" width="100%" /> | <img src="store-assets/screenshots-1280x800/02-ipecs-auto-dialer-trial-dashboard-1280x800.jpg" alt="Trial dashboard" width="100%" /> |
+
+| Live calling on iPECS | Select outcome |
+|:---:|:---:|
+| <img src="store-assets/screenshots-1280x800/03-ipecs-auto-dialer-live-calling-1280x800.jpg" alt="Live calling" width="100%" /> | <img src="store-assets/screenshots-1280x800/04-ipecs-auto-dialer-select-outcome-1280x800.jpg" alt="Select outcome" width="100%" /> |
+
+<img src="store-assets/screenshots-1280x800/05-ipecs-auto-dialer-xlsx-call-report-1280x800.jpg" alt="XLSX call report" width="100%" />
+
+<p><em>Login → import leads → auto-dial on iPECS Cloud → tag outcomes → export XLSX</em></p>
+
+</div>
+
 ---
 
 ## SEO Keywords
