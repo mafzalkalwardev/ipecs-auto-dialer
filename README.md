@@ -1,6 +1,25 @@
+<div align="center">
+
 # IPECS Auto Dialer by Indus Web Agency
 
-Chrome extension for UK outbound calling on iPECS Cloud — lead import, auto-dial queue, call outcomes, and XLSX reports.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=Chrome+MV3+UK+Outbound+Dialer;iPECS+Cloud+Auto-Dial+Queue;Lead+Import+%2B+Outcomes+%2B+XLSX+Reports;Built+by+Indus+Web+Agency" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=0ea5e9&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/ipecs-auto-dialer?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/ipecs-auto-dialer?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/ipecs-auto-dialer?style=for-the-badge&color=64748b" alt="License" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,chrome,vercel,postgres,githubactions,windows" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>Chrome extension for UK outbound calling on iPECS Cloud — lead import, auto-dial queue, call outcomes, and XLSX reports.</strong>
+</p>
+
+</div>
 
 ---
 
@@ -11,6 +30,12 @@ IPECS Auto Dialer by Indus Web Agency is a Chrome MV3 side-panel dialer that tur
 It includes a subscription gate (trial + admin-approved plans) with one device per account, Indus Web Agency branding, and WhatsApp support.
 
 > Compliance note: this extension can place real calls through iPECS Cloud. You are responsible for consent, Do Not Call rules, recording disclosure, spam prevention, local law, and your iPECS / carrier account limits.
+
+---
+
+## SEO Keywords
+
+`IPECS auto dialer` `iPECS Cloud Chrome extension` `UK outbound dialer` `Chrome MV3 side panel dialer` `UK call queue automation` `Excel lead import dialer` `XLSX call report` `Indus Web Agency` `one3.ipecs-cloud.co.uk` `VoIP auto dialer UK`
 
 ---
 
@@ -92,6 +117,29 @@ When dialing breaks, on the iPECS tab DevTools run `IPECSSel.probe()` and repair
 
 ---
 
+## Compliance and Responsible Use
+
+This extension can place real outbound calls through iPECS Cloud. It is intended for lawful, permission-based business workflows only. Users are responsible for:
+
+- **Consent** and permission-based outreach before calling
+- **Do Not Call** lists and applicable telemarketing regulations
+- **Caller ID** accuracy and business identification
+- **Recording disclosure** where required by law
+- **iPECS / carrier** account limits and spam prevention
+- Local privacy and telecommunications laws
+
+This software must not be used for spam, harassment, deceptive robocalling, or unauthorized calling.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+Community docs: [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
+
+---
+
 ## Support
 
 - **Indus Web Agency** — [induswebagency.com](https://www.induswebagency.com)
@@ -99,4 +147,8 @@ When dialing breaks, on the iPECS tab DevTools run `IPECSSel.probe()` and repair
 
 ---
 
+<div align="center">
+
 Built for practical UK outbound dialing on iPECS Cloud: queue automation, real call-state detection, and Indus Web Agency support.
+
+</div>
