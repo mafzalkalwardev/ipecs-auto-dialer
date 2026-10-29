@@ -11,3 +11,7 @@ Thumbs.db
 *.log
 .idea/
 .vscode/
+
+# Keep compressed demo in docs/media; ignore oversized local recordings
+Screen Recording of working extnsion.mp4
+*.raw-recording.mp4
