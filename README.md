@@ -39,9 +39,15 @@
 
 IPECS Auto Dialer by Indus Web Agency is a Chrome MV3 side-panel dialer that turns [iPECS Cloud](https://one3.ipecs-cloud.co.uk/call) into a queue-based outbound calling console for UK numbers. Import CSV or Excel leads, auto-dial with a configurable delay, tag each call outcome from an on-page HUD, and export an XLSX call report — while you stay signed in on `one3.ipecs-cloud.co.uk`.
 
-### Demo video
+### Live demo
 
-[Watch the working extension demo](docs/media/working-extension-demo.mp4) — live queue dialing, on-page HUD, outcome tagging, and side panel on iPECS Cloud.
+<div align="center">
+
+<img src="docs/media/working-extension-demo.gif" alt="IPECS Auto Dialer live demo — queue dialing on iPECS Cloud" width="100%" />
+
+<p><em>Live queue dialing, on-page HUD, and side panel on iPECS Cloud</em></p>
+
+</div>
 
 ### Live screenshots (working extension)
 
