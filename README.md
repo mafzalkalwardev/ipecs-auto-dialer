@@ -21,20 +21,6 @@
 
 </div>
 
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## Project Showcase
 
 IPECS Auto Dialer by Indus Web Agency is a Chrome MV3 side-panel dialer that turns [iPECS Cloud](https://one3.ipecs-cloud.co.uk/call) into a queue-based outbound calling console for UK numbers. Import CSV or Excel leads, auto-dial with a configurable delay, tag each call outcome from an on-page HUD, and export an XLSX call report — while you stay signed in on `one3.ipecs-cloud.co.uk`.
